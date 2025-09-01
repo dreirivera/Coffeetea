@@ -3,6 +3,12 @@
 **CoffeeTea** is a PHP-MySQL powered web application for a café that sells **coffee and tea online**.  
 It allows customers to browse drinks, add them to a cart, and place orders, while the admin can manage products, users, and orders through a secure backend. This was developed for academic purpose.
 
+<img width="1366" height="654" alt="279583925_341407211351438_7474071249411743852_n" src="https://github.com/user-attachments/assets/1454ce62-6a52-4dd3-b1e4-4b156951937b" />
+
+<img width="1366" height="656" alt="280473667_694878665109950_2740604307020775108_n" src="https://github.com/user-attachments/assets/de29550d-a7bf-462e-a7d6-842a905627d7" />
+
+<img width="1366" height="653" alt="280532940_413850293673900_1753901284758510400_n" src="https://github.com/user-attachments/assets/c6896ce1-f098-40f4-8a36-cddc3aaaabf4" />
+
 ---
 
 ## 🚀 Features
